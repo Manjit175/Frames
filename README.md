@@ -9,6 +9,7 @@ PLUGINS
 coder
 Graphics
 Writer
+A/V
 
 ENTERPRISE
 lisences
