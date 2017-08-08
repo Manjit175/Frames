@@ -15,3 +15,7 @@ lisences
 hr
 render enterprise
 gini index
+
+
+FUNCTION
+edit render
