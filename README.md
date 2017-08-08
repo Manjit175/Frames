@@ -19,3 +19,4 @@ gini index
 
 FUNCTION
 edit render
+admin management
